@@ -1,1 +1,2 @@
-# Battery-Storage
+# Battery Storage
+Battery storage, or battery energy storage systems (BESS), are devices that enable energy from renewables, like solar and wind, to be stored and then released when the power is needed most. Remember to keep batteries in a cool and dry place, store them in their original packaging or a designated [Battery Storage](https://briteksolar.com/), and avoid exposing them to extreme temperatures or moisture. Lithium-ion batteries are the most commonly used battery technology in the world today, and they are increasingly being used for energy storage as well. They are lightweight, have a long lifespan, and can be recharged quickly. However, they are more costly than lead-acid batteries and can be more difficult to recycle.
